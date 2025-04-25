@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+configs/api_keys.yaml
+.venv/
+.idea/
+.DS_Store
