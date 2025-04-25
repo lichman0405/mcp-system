@@ -8,7 +8,7 @@ from mcp.registry import register_all_plugins
 
 
 # ==== 配置你的 OpenAI Key 和 Base URL（可接 deepseek） ====
-OPENAI_API_KEY = "sk-72c0da4afef44d3ea74cfffc36162f47"
+OPENAI_API_KEY = "sk-"
 BASE_URL = "https://api.deepseek.com/v1"  # 或 https://api.openai.com/v1
 
 
