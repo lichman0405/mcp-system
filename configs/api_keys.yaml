@@ -1,0 +1,7 @@
+currents_api: ""
+deepseek: "sk-"
+libretranslate: ""  # 免费，无需 key
+currency_api: ""
+twelve_data: ""
+opencage: ""
+amap: ""
